@@ -9,7 +9,7 @@ pm2.5值：{{pm2p5.DATA}}
 空气质量：{{category.DATA}} 
 日出时间：{{sunrise.DATA}} 
 日落时间：{{sunset.DATA}} 
-今天是我们恋爱的第{{love_day.DATA}}天 
+今天是我们相识的第{{love_day.DATA}}天 
 {{birthday1.DATA}} 
 {{birthday2.DATA}} 
 今日建议：{{proposal.DATA}}
